@@ -1,4 +1,5 @@
-# M5 - Kenzie Buster
+# Kenzie Buster
+## Esta API tem o objetivo de gerenciar usuários e filmes. Foi usado autenticação e permissões para diversos tipos de usuários.
 
 ## Preparando ambiente para execução dos testes
 
